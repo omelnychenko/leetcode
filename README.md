@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/omelnychenko/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0189-rotate-array](https://github.com/omelnychenko/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -13,4 +14,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/omelnychenko/leetcode/tree/main/0189-rotate-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/omelnychenko/leetcode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
