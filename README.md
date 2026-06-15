@@ -18,4 +18,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/omelnychenko/leetcode/tree/main/0035-search-insert-position/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/omelnychenko/leetcode/tree/main/0290-word-pattern/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0290-word-pattern](https://github.com/omelnychenko/leetcode/tree/main/0290-word-pattern/) | Easy |
 <!---LeetCode Topics End-->
