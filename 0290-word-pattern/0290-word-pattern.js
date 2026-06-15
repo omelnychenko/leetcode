@@ -5,10 +5,8 @@
  */
 var wordPattern = function(pattern, s) {
     if (pattern.length !== s.split(' ').length) return false;
-    const pSet = [...new Set(pattern)];
-    const sSet = [...new Set(s.split(' '))];
     for (const i in pattern) {
-        if (pSet.indexOf(pattern[i]) !== sSet.indexOf(s.split(' ')[i])) {
+        if ([...new Set(pattern)].indexOf(pattern[i]) !== [...new Set(s.split(' '))].indexOf(s.split(' ')[i])) {
             return false;
         }
     }
