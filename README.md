@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/omelnychenko/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0088-merge-sorted-array](https://github.com/omelnychenko/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/omelnychenko/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -13,6 +14,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/omelnychenko/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/omelnychenko/leetcode/tree/main/0189-rotate-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -26,4 +28,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0290-word-pattern](https://github.com/omelnychenko/leetcode/tree/main/0290-word-pattern/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/omelnychenko/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
